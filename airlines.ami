@@ -147,7 +147,8 @@
           "pt":"LAYOUT_DEFAULT",
           "vl":{
             "table":{
-              "bgCl":"#007fff"
+              "bgCl":"#007fff",
+              "graybarCl":"#efaeae"
             }
           }
         },
