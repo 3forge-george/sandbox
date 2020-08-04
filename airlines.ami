@@ -92,7 +92,6 @@
     {
       "portletBuilderId":"amidesktop",
       "portletConfig":{
-        "active":"Airlines",
         "amiPanelId":"@DESKTOP",
         "amiStyle":{
           "pt":"LAYOUT_DEFAULT"
@@ -108,7 +107,7 @@
             "state":"flt",
             "title":"Window",
             "top":60,
-            "width":960,
+            "width":569,
             "zindex":1
           }
         ]
@@ -145,7 +144,12 @@
         ],
         "amiPanelId":"Airlines",
         "amiStyle":{
-          "pt":"LAYOUT_DEFAULT"
+          "pt":"LAYOUT_DEFAULT",
+          "vl":{
+            "table":{
+              "bgCl":"#007fff"
+            }
+          }
         },
         "amiTitle":"Airlines",
         "amiTypes":[
